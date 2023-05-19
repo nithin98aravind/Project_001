@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+
+body {
+    background-image: url(bg3.gif);
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.heading{
+    color: white;
+    font-size: 5vw;
+    margin-left: 32%;
+    font-family:cursive;
+}
+ 
+.eimg{
+    position: absolute;
+    top: 230px;
+    left: 65%;
+    height: 29vw;
+    width: 30vw;
+}
+.simg{
+    position: absolute;
+    top: 320px;
+    left: 10%;
+    height: 15vw;
+    width: 15vw;
+}
